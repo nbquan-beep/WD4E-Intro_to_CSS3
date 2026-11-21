@@ -1,7 +1,4 @@
-body{
-  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-  font-size: 150%;
-}
+
 /* Bước 3: nội dung (body) - font-family, font-size */
 body {
   font-family: Arial, Helvetica, sans-serif;
@@ -11,6 +8,10 @@ body {
 /* Bước 4: header - background-color */
 header {
   background-color: #1f3a5f;
+  color: #ffffff;
+}
+header a {
+  color: #ffffff;
 }
 
 /* Bước 5: nav - background-color */
